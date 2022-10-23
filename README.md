@@ -1,8 +1,9 @@
-
-## 個人資料
+<details> 
+ <summary><b>個人資料</b></summary>
  - CHEN,KE-RONG 
  - Email：krameri120@gmail.com
  - Job：College Student   
+</details>
 <details> 
  <summary><b>專業能力與競賽資歷</b></summary>
 
