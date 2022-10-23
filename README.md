@@ -8,7 +8,7 @@
  - Email：krameri120@gmail.com
  - Job：College Student   
 <details> 
-## 專業能力與競賽資歷
+ <summary><b>專業能力與競賽資歷</b></summary>
 
 - 程式撰寫：C/C++/Python
 - 硬體描述語言：VHDL/Verilog 
@@ -19,7 +19,7 @@
 - 2022/10/15 參加全國大專電腦軟體設計競賽**決賽** (Team:Segmentation Fault)
 - 2022/10/22 參加TOPC台灣線上程式競賽
 </details>
----      
+  
 # 致謝
 感謝您花時間閱讀我的簡歷，期待能有機會和您共事~
 
