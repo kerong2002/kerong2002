@@ -15,7 +15,7 @@
 - Sports club：Street Workout [teamlong](https://www.instagram.com/teamlong_sw/)
 - National Tainan Industrial High School independent study competitions **1st**
 - National Tainan Industrial High School 108 Badminton game **2nd**
-- Sportswear Design Competition Sportswear Design Competition **Champion**
+- National Tainan Industrial High School 80th Sportswear Design Competition Sportswear Design Competition **Champion**
 - KAWAI piano performance grade **7**
 - Programming Language：C/C++/Python
 - C Language work：[Note](https://hackmd.io/@krameri120/kerong)
