@@ -20,7 +20,7 @@
 - Programming language：C/C++/Python
 - C Language work：[Note](https://hackmd.io/@krameri120/kerong)
 - Hardware Description Language：VHDL/Verilog 
-- Window Programming：Python-TKinter 
+- Window programming：Python-TKinter 
 - TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
