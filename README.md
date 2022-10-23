@@ -1,7 +1,7 @@
 <details> 
  <summary><b>個人資料</b></summary>
  
- - CHEN,KE-RONG 
+ - Name：CHEN,KE-RONG 
  - Email：krameri120@gmail.com
  - Job：College Student   
  
