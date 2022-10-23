@@ -17,7 +17,7 @@
 - 2022/03/30 參加全國大學校院積體電路設計競賽 E組
 - 2022/10/01 參加全國大專電腦軟體設計競賽**初賽** (Team:Segmentation Fault)
 - 2022/10/15 參加全國大專電腦軟體設計競賽**決賽** (Team:Segmentation Fault)
-- 2022/10/22 參加TOPC台灣線上程式競賽
+- 2022/10/22 參加TOPC台灣線上程式競賽 (Team:Segmentation Fault)
 
 </details>
 
