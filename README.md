@@ -11,7 +11,7 @@
  <summary><b>Skill/Contest experience</b></summary>
 
 - Programming Language：C/C++/Python
-- [C Language Note](https://github.com/kerong2002/C_Language_Note)
+- C Language work [Note](https://github.com/kerong2002/C_Language_Note)
 - Hardware Description Language：VHDL/Verilog 
 - Window Programming：Python-TKinter 
 - TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
