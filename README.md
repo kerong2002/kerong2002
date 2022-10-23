@@ -10,7 +10,7 @@
 <details> 
  <summary><b>Skill/Contest experience</b></summary>
 
-- School team：NTIHS Dragon Boat
+- School team：National Tainan Industrial High School  Dragon Boat
 - 2020 Tainan City International Dragon Boat Championships **2nd**
 - Sports club：Street Workout [teamlong](https://www.instagram.com/teamlong_sw/)
 - National Tainan Industrial High School independent study competitions **1st**
