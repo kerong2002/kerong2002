@@ -34,7 +34,7 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=dark" alt="JustSong's LeetCode Stats" width="49%" /> 
 </p>
 
-![test](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=15&theme=monokai)
+![test](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=15&theme=black)
 
 <a href=#><img src="kerong_contribution.svg"></a>    
 
