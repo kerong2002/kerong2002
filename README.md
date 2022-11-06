@@ -31,5 +31,5 @@
 </details>  
 
 ![kerong2002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=15&theme=radical)  
-<a href=#><img src="kerong_contribution.svg"></a>  
+<a href=#><img src="kerong_contribution.svg"></a> ![kerong's Leetcode](https://stats.justsong.cn/api/leetcode/?kerong2002=quanpeng&theme=dark)  
 
