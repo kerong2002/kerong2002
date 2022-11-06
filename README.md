@@ -34,6 +34,7 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=dark" alt="JustSong's LeetCode Stats" width="49%" /> 
 </p>
 
+![kerong2002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=kerong2002&show_icons=true&count_private=true&theme=gotham)
 
 <a href=#><img src="kerong_contribution.svg"></a>    
 
