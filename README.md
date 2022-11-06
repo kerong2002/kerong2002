@@ -31,3 +31,5 @@
 </details>
 ![kerong](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=10 )
 
+<a href=#><img src="kerong2002_contributions.svg"></a>
+
