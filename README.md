@@ -30,6 +30,8 @@
 
 </details>
 
+![kerong2002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=kerong2002&show_icons=true&count_private=true&theme=gotham)
+
 
 <a href=#><img src="kerong_contribution.svg"></a>
 
