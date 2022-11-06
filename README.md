@@ -31,7 +31,7 @@
 </details>  
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=300&theme=jolly" alt="krameri120's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=aura" alt="krameri120's LeetCode Stats" width="49%" /> 
+  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly" alt="krameri120's LeetCode Stats" width="49%" /> 
 </p>
 
 
