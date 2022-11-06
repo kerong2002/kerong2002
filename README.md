@@ -34,8 +34,6 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly" alt="krameri120's LeetCode Stats" width="49%" /> 
 </p>
 
-
-
 <a href=#><img src="kerong_contribution.svg"></a>    
 
 <!-- 來源(https://github.com/songquanpeng/stats-cards) -->
