@@ -24,7 +24,7 @@
 - TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
-- 2022/10/01 National Collegiate Programming Contest **Preliminary** (Team:Segmentation Fault)
+- 2022/10/01 National Collegiate Programming Contest **[Preliminary](https://github.com/kerong2002/Contest_Photo/blob/main/NCPC_FINAL_certificate.PNG)** (Team:Segmentation Fault)
 - 2022/10/15 National Collegiate Programming Contest **Final** (Team:Segmentation Fault)
 - 2022/10/22 ICPC Asia Taiwan Online Programming Contest (Team:Segmentation Fault)
 
