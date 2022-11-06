@@ -29,7 +29,7 @@
 - 2022/10/22 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022TOPC_team_certificate.PNG) (Team:Segmentation Fault)**
 
 </details>
-[kerong](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=10 )
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=10 )
 
 <a href=#><img src="kerong_contribution.svg"></a>
 
