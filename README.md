@@ -30,7 +30,7 @@
 
 </details>
 
-![kerong2002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=10)
+![kerong2002's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=15)
 
 
 <a href=#><img src="kerong_contribution.svg"></a>
