@@ -30,8 +30,8 @@
 
 </details>  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" />
-  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly" alt="krameri120's LeetCode Stats" width="46%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="46%" /> 
 </p>
 
 <a href=#><img src="kerong_contribution.svg"></a>    
