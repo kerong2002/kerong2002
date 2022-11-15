@@ -17,7 +17,7 @@
 - National Tainan Industrial High School 108 badminton game **2nd**
 - National Tainan Industrial High School 80th sportswear design competition **Champion**
 - KAWAI piano performance grade **7**
-- Programming language：C/C++/Python
+- Programming language：C/C++/Python/Assembly  
 - C Language work：[Note](https://hackmd.io/@krameri120/kerong)
 - Hardware Description Language：VHDL/Verilog 
 - Window programming：Python-TKinter 
