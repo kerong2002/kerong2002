@@ -27,7 +27,7 @@
 - 2022/10/01 National Collegiate Programming Contest **[Preliminary](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_preliminary_certificate.PNG)** (Team:Segmentation Fault)
 - 2022/10/15 National Collegiate Programming Contest **[Final](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_FINAL_certificate.PNG)** (Team:Segmentation Fault)
 - 2022/10/22 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022TOPC_team_certificate.PNG) (Team:Segmentation Fault)**
-
+- 2022/11/19 ICPC Asia Taoyuan Regional Programming Contest **[Regional]** (https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022TOPC_team_certificate.PNG)
 </details>  
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" />
