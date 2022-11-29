@@ -17,10 +17,9 @@
 - National Tainan Industrial High School 108 badminton game **2nd**
 - National Tainan Industrial High School 80th sportswear design competition **Champion**
 - KAWAI piano performance grade **7**
-- Programming language：
-C/C++/Python/Assembly
- Dart/Arduino/Matlab
+- Programming language：C/C++/Python/Matlab
 - Hardware Description Language：VHDL/Verilog 
+- Web design：Markdown, HTML, Latex
 - Window programming：Python-TKinter,Visual basic
 - App design：Flutter - dart
 - MCU design：Arduino,8051,STM32
