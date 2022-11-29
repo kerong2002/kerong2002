@@ -22,7 +22,7 @@
 - Web design：HTML, Markdown,  Latex
 - Window programming：Python-TKinter, Visual basic
 - App design：Flutter - dart
-- MCU design：Arduino,8051,STM32
+- MCU design：Arduino, 8051, STM32
 - Machine learning：supervised learning, unsupervised learning, reference learning
 - C Language work：[Note](https://hackmd.io/@krameri120/kerong)
 - TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
