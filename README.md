@@ -19,8 +19,8 @@
 - KAWAI piano performance grade **7**
 - Programming language：C/C++/Python/Matlab
 - Hardware Description Language：VHDL/Verilog 
-- Web design：Markdown, HTML, Latex
-- Window programming：Python-TKinter,Visual basic
+- Web design：HTML, Markdown,  Latex
+- Window programming：Python-TKinter, Visual basic
 - App design：Flutter - dart
 - MCU design：Arduino,8051,STM32
 - Machine learning：supervised learning, unsupervised learning, reference learning
