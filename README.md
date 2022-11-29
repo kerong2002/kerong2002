@@ -17,10 +17,13 @@
 - National Tainan Industrial High School 108 badminton game **2nd**
 - National Tainan Industrial High School 80th sportswear design competition **Champion**
 - KAWAI piano performance grade **7**
-- Programming language：C/C++/Python/Assembly/Flutter/Arduino  
+- Programming language：C/C++/Python/Assembly/Dart/Arduino  
 - C Language work：[Note](https://hackmd.io/@krameri120/kerong)
 - Hardware Description Language：VHDL/Verilog 
 - Window programming：Python-TKinter 
+- App design：Flutter - dart
+- MCU design：Arduino,8051,STM32
+- Machine learning：supervised learning, unsupervised learning, reference learning
 - TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
