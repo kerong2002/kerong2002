@@ -19,7 +19,9 @@
 - KAWAI piano performance grade **7**
 - Programming language：C/C++/Python/Matlab
 - Hardware Description Language：VHDL/Verilog 
-- PLD：FPGA, CPLD
+- Programmable Logic Device：FPGA, CPLD
+- Single-board computer：Raspberry Pi 3, Raspberry Pi 4, Raspberry Pi Pico 
+- Ardunio：UNO, ESP32, Nano
 - Web design：HTML, Markdown,  Latex
 - Window programming：Python-TKinter, Visual basic
 - App design：Flutter - dart
