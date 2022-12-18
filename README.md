@@ -13,6 +13,10 @@
 |Course Title|Project|
 |:----------:|:-----:|
 |Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note)|
+|Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)|
+|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)        |
+|Object-oriented Programming|[RPG_game](https://github.com/kerong2002/RPG_game)       |
+|Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|
  
 </details>
 
