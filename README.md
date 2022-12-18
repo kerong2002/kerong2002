@@ -30,6 +30,7 @@
 - National Tainan Industrial High School 108 badminton game **2nd**
 - National Tainan Industrial High School 80th sportswear design competition **Champion**
 - KAWAI piano performance grade **7**
+- CPE(Collegiate Programming Examination) **5/7**
  
 |Name|expertise|
 |:--:|:---:|
