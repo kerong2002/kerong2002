@@ -12,7 +12,7 @@
  
 |Course Title|Project|
 |:----------:|:-----:|
-|Computer Programming|test |
+|Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note)|
  
 </details>
 
