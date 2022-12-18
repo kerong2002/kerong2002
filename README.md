@@ -40,8 +40,6 @@
 - App design：Flutter - dart
 - MCU design：Arduino, 8051, STM32
 - Machine learning：supervised learning, unsupervised learning, reference learning
-- C Language work：[Note](https://hackmd.io/@krameri120/kerong)
-- TKinter works：[Minesweeper](https://github.com/kerong2002/Minesweeper)
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
 - 2022/10/01 National Collegiate Programming Contest **[Preliminary](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_preliminary_certificate.PNG)** (Team:Segmentation Fault)
