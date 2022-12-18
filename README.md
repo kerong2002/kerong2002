@@ -30,15 +30,21 @@
 - National Tainan Industrial High School 108 badminton game **2nd**
 - National Tainan Industrial High School 80th sportswear design competition **Champion**
 - KAWAI piano performance grade **7**
-- Programming language：C/C++/Python/Matlab
+ 
+ |Name|skill|
+ |:--:|:---:|
+ |Programming language|C/C++/Python/Matlab|
+ 
+ 
 - Hardware Description Language：VHDL/Verilog 
 - Programmable Logic Device：FPGA, CPLD
+- MCU design：8051, STM32
 - Single-board computer：Raspberry Pi 3, Raspberry Pi 4, Raspberry Pi Pico 
 - Ardunio：UNO, ESP32, Nano
 - Web design：HTML, Markdown,  Latex
 - Window programming：Python-TKinter, Visual basic
 - App design：Flutter - dart
-- MCU design：Arduino, 8051, STM32
+
 - Machine learning：supervised learning, unsupervised learning, reference learning
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
