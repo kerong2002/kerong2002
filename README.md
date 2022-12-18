@@ -6,7 +6,9 @@
  - Job：College student   
  
 </details>
-
+|Course Title|Project|
+|:----------:|:-----:|
+|Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note) |
 <details> 
  <summary><b>Project</b></summary> 
 test
