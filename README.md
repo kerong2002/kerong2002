@@ -9,6 +9,7 @@
 
 <details> 
  <summary><b>Project</b></summary> 
+ 
 |Course Title|Project|
 |:----------:|:-----:|
 |Computer Programming|test |
