@@ -11,7 +11,7 @@
  <summary><b>Project</b></summary> 
 |Course Title|Project|
 |:----------:|:-----:|
-|Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note) |
+|Computer Programming|test |
  
 </details>
 
