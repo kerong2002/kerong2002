@@ -54,7 +54,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
  
- # 2023_winter_vacation(schedule)
+ ## 2023_winter_vacation(schedule)
 
 | 時間\日期 | 星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
