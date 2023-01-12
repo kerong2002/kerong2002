@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
 <details> 
  <summary><b>Personal Information</b></summary>  
    
@@ -52,6 +51,8 @@
 - 2022/11/19 ICPC Asia Taoyuan Regional Programming Contest **[Regional](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022%20ICPC%20Asia%20Taoyuan%20Regional%20Programming%20Contest%20team.PNG)**
 </details>    
 <p>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
  
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" /> -->
   <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="46%" /> 
