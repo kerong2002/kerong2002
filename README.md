@@ -1,5 +1,5 @@
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <details> 
  <summary><b>Personal Information</b></summary>  
    
