@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=39A7F7&width=435&lines=KE-RONG%2CCHEN;Welcome+to+my+personal+web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN;Welcome+to+my+personal+website.)](https://git.io/typing-svg)
 <details> 
  <summary><b>Personal Information</b></summary>  
    
