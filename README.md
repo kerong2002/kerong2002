@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <details> 
  <summary><b>Personal Information</b></summary>  
    
