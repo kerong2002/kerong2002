@@ -62,10 +62,10 @@
 | 14:00~16:00 | 資結 | OOP | 工數 | 線性代數 | 強化學習 | 資結 | OOP  |
 | 19:00~21:00 | 英文 | 英文 | 英文圖書 | 英文圖書 | 英文 | 英文 | 英文  |
  
-https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" /> 
-  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="46%" /> 
-</p>-->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" /> -->
+  <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="100%" /> 
+</p>
 
 <a href=#><img src="kerong_contribution.svg"></a>        
 
