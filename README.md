@@ -39,12 +39,12 @@
 |Single-board computer|Raspberry_Pi 3/4/Pico |
 |Ardunio|UNO/ESP32/Nano|
 |Web design|HTML/Markdown/Latex|
-|Window programming|Python-TKinter/Visual basic|
+|Window programming|Python-TKinter/Visual Basic|
 |App design|Flutter_dart|
 
 - Machine learning：supervised learning, unsupervised learning, reference learning
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
-- 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST (Group E)
+- 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST [Group E](https://github.com/kerong2002/Contest_Photo/blob/main/2022/110%E5%AD%B8%E5%B9%B4%E5%BA%A6(2022)%E7%AC%AC25%E5%B1%86%E2%BC%A4%E5%AD%B8%E9%99%A2%E6%A0%A1%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF(IC)%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD.png)
 - 2022/10/01 National Collegiate Programming Contest **[Preliminary](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_preliminary_certificate.PNG)** (Team:Segmentation Fault)
 - 2022/10/15 National Collegiate Programming Contest **[Final](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_FINAL_certificate.PNG)**(Team:Segmentation Fault)
 - 2022/10/22 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022TOPC_team_certificate.PNG)** (Team:Segmentation Fault)
