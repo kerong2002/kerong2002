@@ -14,7 +14,7 @@
 |:----------:|:-----:|:----------:|:-----:|:----------:|:-----:|
 |Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note)|Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)        |
 |Object-oriented Programming|[RPG_game](https://github.com/kerong2002/RPG_game)       |Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|FPGA|[Tilted_Image_Correction](https://github.com/kerong2002/Tilted_Image_Correction)|
-|Digital System Design|[TETRIS](https://github.com/kerong2002/FPGA_TETRIS)|||||  
+|Digital System Design|[TETRIS](https://github.com/kerong2002/FPGA_TETRIS)|FPGA|[YOLOV5](https://github.com/kerong2002/YOLOV5)||  
  
 </details>
 
@@ -54,13 +54,6 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
  
- ### 2023_winter_vacation(schedule)
-
-| 時間\日期 | 星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日  |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 10:00~12:00 | 資結 | OOP | 工數 | 線性代數 | 強化學習 | 資結 | OOP  |
-| 14:00~16:00 | 資結 | OOP | 工數 | 線性代數 | 強化學習 | 資結 | OOP  |
-| 19:00~21:00 | 英文 | 英文 | 英文圖書 | 英文圖書 | 英文 | 英文 | 英文  |
  
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" /> 
