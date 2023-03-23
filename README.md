@@ -40,7 +40,7 @@
 |Ardunio|UNO/ESP32/Nano|
 |Web design|JavaScript/CSS/Hexo|
 |Hypertext Markup Language|HTML/Markdown/Latex|
-|Window programming|Python-TKinter/Visual Basic|
+|Window programming|Python-TKinter/Visual Basic/C#|
 |App design|Flutter/Dart|
 |Machine Learning|Pytorch/Tensorflow|
 
