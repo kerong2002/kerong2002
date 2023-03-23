@@ -69,9 +69,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
  
-![](https://skillicons.dev/icons?i=c,cpp,java,python,matlab)
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,git)
-![](https://skillicons.dev/icons?i=dart,flutter,arduino,raspberrypi,pytorch,tensorflow)
+![](https://skillicons.dev/icons?i=c,cpp,java,python,matlab,html,css,js,nodejs,git,dart,flutter,arduino,raspberrypi,pytorch,tensorflow)
 
 
 
