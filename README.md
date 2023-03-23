@@ -32,7 +32,7 @@
  
 |Name|expertise|
 |:--:|:---:|
-|Programming language|C/C++/Python/Matlab<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>|
+|Programming language|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="20"/>/C++/Python/Matlab|
 |Hardware Description Language|VHDL/Verilog |
 |Programmable Logic Device|FPGA/CPLD|
 |MCU design|8051|
