@@ -32,13 +32,13 @@
  
 |Name|expertise|
 |:--:|:---:|
-|Programming language|C/C++/Python/Matlab|
+|Programming language|C/C++/Python/Java/Matlab|
 |Hardware Description Language|VHDL/Verilog |
 |Programmable Logic Device|FPGA/CPLD|
 |MCU design|8051|
 |Single-board computer|Raspberry_Pi 3/4/Pico |
 |Ardunio|UNO/ESP32/Nano|
-|Web design|HTML/Markdown/Latex|
+|Web design|HTML/Markdown/Latex/JavaScript/CSS/Hexo|
 |Window programming|Python-TKinter/Visual Basic|
 |App design|Flutter_dart|
 |Machine Learning|Pytorch/Tensorflow|
