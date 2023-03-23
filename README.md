@@ -62,4 +62,4 @@
 
 <a href=#><img src="kerong_contribution.svg"></a>     
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+**Visitor** ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
