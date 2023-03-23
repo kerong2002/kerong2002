@@ -32,7 +32,7 @@
  
 |Name|expertise|
 |:--:|:---:|
-|Programming language|C/C++/Python/Matlab|
+|Programming language|C/C++/Python/Matlab ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
 |Hardware Description Language|VHDL/Verilog|
 |Programmable Logic Device|FPGA/CPLD|
 |MCU design|8051|
