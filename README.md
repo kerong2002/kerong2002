@@ -40,7 +40,7 @@
 |Ardunio|UNO/ESP32/Nano|
 |Web design|HTML/Markdown/Latex/JavaScript/CSS/Hexo|
 |Window programming|Python-TKinter/Visual Basic|
-|App design|Flutter_dart|
+|App design|Flutter/Dart|
 |Machine Learning|Pytorch/Tensorflow|
 
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
