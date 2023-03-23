@@ -62,4 +62,4 @@
 
 <a href=#><img src="kerong_contribution.svg"></a>        
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kerong2002&left_color=green&right_color=red)
+
