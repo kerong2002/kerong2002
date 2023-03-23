@@ -63,4 +63,4 @@
 <a href=#><img src="kerong_contribution.svg"></a>     
 
 
-[![kerong2002's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kerong2002&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![kerong2002's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kerong2002&theme=react)
