@@ -52,8 +52,9 @@
 </details>    
 <p>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
  
+ ![trophy](https://github-profile-trophy.vercel.app/?username=kerong2002&title=MultiLanguage,Joined2020,Commits,Repositories)
+
  
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerong2002&layout=compact&hide_border=true&langs_count=100&theme=buefy" alt="krameri120's LeetCode Stats" width="46%" /> 
@@ -66,4 +67,5 @@
 ![kerong2002's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kerong2002&theme=react)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kerong2002&column=10)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
+ 
