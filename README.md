@@ -60,4 +60,6 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="46%" /> 
 </p>
 
-<a href=#><img src="kerong_contribution.svg"></a>        
+<a href=#><img src="kerong_contribution.svg"></a>     
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
