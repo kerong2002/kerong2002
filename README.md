@@ -32,8 +32,8 @@
  
 |Name|expertise|
 |:--:|:---:|
-|Programming language|C/C++/Python/Matlab|
-|Hardware Description Language|VHDL/Verilog https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg|
+|Programming language|C/C++/Python/Matlab<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>|
+|Hardware Description Language|VHDL/Verilog |
 |Programmable Logic Device|FPGA/CPLD|
 |MCU design|8051|
 |Single-board computer|Raspberry_Pi 3/4/Pico |
