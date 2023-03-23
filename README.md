@@ -71,4 +71,4 @@
  
 ![](https://skillicons.dev/icons?i=c,cpp,java,python,matlab)
 ![](https://skillicons.dev/icons?i=html,css,js,nodejs,git)
-![](https://skillicons.dev/icons?i=dart,flutter,arduino,raspberrypi,pytorch)
+![](https://skillicons.dev/icons?i=dart,flutter,arduino,raspberrypi,pytorch,tensorflow)
