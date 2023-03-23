@@ -38,7 +38,8 @@
 |MCU design|8051|
 |Single-board computer|Raspberry_Pi 3/4/Pico |
 |Ardunio|UNO/ESP32/Nano|
-|Web design|HTML/Markdown/Latex/JavaScript/CSS/Hexo|
+|Web design|JavaScript/CSS/Hexo|
+|Hypertext Markup Language|HTML/Markdown/Latex|
 |Window programming|Python-TKinter/Visual Basic|
 |App design|Flutter/Dart|
 |Machine Learning|Pytorch/Tensorflow|
