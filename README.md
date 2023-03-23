@@ -62,4 +62,4 @@
 
 <a href=#><img src="kerong_contribution.svg"></a>        
 
-
+[![kerong2002's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kerong2002&theme=xcode)](https://github.com/kerong2002)
