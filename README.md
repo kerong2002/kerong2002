@@ -30,19 +30,15 @@
 - KAWAI piano performance grade **7**
 - CPE(Collegiate Programming Examination) Problem Solved:[**5/7**](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022_12_12_CPE.jpg) **(Rank:62/2502 -> 2.5%)**
  
-|Name|expertise|
-|:--:|:---:|
-|Programming language|C/C++/Python/Java/Matlab|
-|Hardware Description Language|VHDL/Verilog |
-|Programmable Logic Device|FPGA/CPLD|
-|MCU design|8051|
-|Single-board computer|Raspberry_Pi 3/4/Pico |
-|Ardunio|UNO/ESP32/Nano|
-|Web design|JavaScript/CSS/Hexo|
-|Hypertext Markup Language|HTML/Markdown/Latex|
-|Window programming|Python-TKinter/Visual Basic/C#|
-|App design|Flutter/Dart|
-|Machine Learning|Pytorch/Tensorflow|
+|Name|expertise|Name|expertise|
+|:--:|:---:|:--:|:---:|
+|Programming language|C/C++/Python/Java    | Machine Learning|Pytorch/Tensorflow|
+|Hardware Description Language|VHDL/Verilog | Programmable Logic Device|FPGA/CPLD|
+|MCU design|8051 | Mathematics| MATLAB|
+|Ardunio|UNO/ESP32/Nano|Single-board computer|Raspberry_Pi 3/4/Pico |
+|Web design|JavaScript/CSS/Hexo| Hypertext Markup Language|HTML/Markdown/Latex|
+|Window programming|Python-TKinter/Visual Basic/C#|App design|Flutter/Dart|
+
 
 - 2022/10 ~ 2023/01 School buddy (teaching subject：calculus/program)
 - 2022/03/30 INTEGRATED CIRCUIT DESIGN CONTEST **[Group E](https://github.com/kerong2002/Contest_Photo/blob/main/2022/110%E5%AD%B8%E5%B9%B4%E5%BA%A6(2022)%E7%AC%AC25%E5%B1%86%E2%BC%A4%E5%AD%B8%E9%99%A2%E6%A0%A1%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF(IC)%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD.png)**
