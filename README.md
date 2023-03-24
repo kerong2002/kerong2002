@@ -32,9 +32,9 @@
  
 |Name|expertise|Name|expertise|
 |:--:|:---:|:--:|:---:|
-|Programming Language|C/C++/Python/Java    | Machine Learning|Pytorch/Tensorflow|
+|Programming Language|C/C++/Python/Java/MATLAB | Machine Learning|Pytorch/Tensorflow|
 |Hardware Description Language|VHDL/Verilog | Programmable Logic Device|FPGA/CPLD|
-|MCU Design|8051 | Mathematics| MATLAB|
+|MCU Design|8051 | Low-level Programming Language| Assembly |
 |Ardunio|UNO/ESP32/Nano|Single-Board Computer|Raspberry_Pi 3/4/Pico |
 |Web Design|JavaScript/CSS/Hexo| Hypertext Markup Language|HTML/Markdown/Latex|
 |Window Programming|Python-TKinter/Visual Basic/C#|App Design|Flutter/Dart|
