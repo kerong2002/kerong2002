@@ -85,3 +85,15 @@
 
 
 
+| 商品 | 價格 |
+|------|------|
+| 鉛筆 | 1.5  |
+| 筆記本 | 2.5 |
+| 刪除器 | 0.5 |
+| 總計 |      |
+
+<script>
+  const prices = [1.5, 2.5, 0.5];
+  const total = prices.reduce((acc, val) => acc + val, 0);
+  document.querySelector('td:last-child').textContent = total;
+</script>
