@@ -84,4 +84,17 @@
 ![Visitor Count](https://profile-counter.glitch.me/kerong2002/count.svg)
 
 
+```r
+# 創建數據框
+data <- data.frame(
+  "Code Judge" = c("Leetcode", "Zerojudge", "Onlinejudge", "CSES"),
+  "Problem Solved" = c(122, 319, 61, 10)
+)
 
+# 輸出數據框
+data
+
+# 輸出全部數量
+total <- sum(data$`Problem Solved`)
+cat("Total number of problems solved:", total)
+```
