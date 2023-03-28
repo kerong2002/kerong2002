@@ -82,3 +82,18 @@
 
 <a href="https://info.flagcounter.com/3gF3"><img src="https://s11.flagcounter.com/countxl/3gF3/bg_FFFFFF/txt_000000/border_000000/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ![Visitor Count](https://profile-counter.glitch.me/kerong2002/count.svg)
+
+
+```{r}
+# 創建一個數據框
+df <- data.frame(
+  Judge = c("Code Judge", "Leetcode", "Zerojudge", "Onlinejudge", "CSES"),
+  Problems_Solved = c(122, 319, 319, 61, 10)
+)
+
+# 輸出數據
+print(df)
+
+# 計算所有問題的總數
+total <- sum(df$Problems_Solved)
+cat("Total problems solved:", total)
