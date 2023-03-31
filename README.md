@@ -12,7 +12,8 @@
  
 |Course|Project|Course|Project|Course|Project|
 |:----------:|:-----:|:----------:|:-----:|:----------:|:-----:|
-|Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note)|Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)        |
+|Computer Programming|[C Language Note](https://github.com/kerong2002/C_Language_Note)|
+ Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)|
 |Discord Bot|[Discord bot mini games](https://github.com/kerong2002/Discord-Bot)||Object-oriented Programming|[RPG_game](https://github.com/kerong2002/RPG_game)       |Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|
 |FPGA|[Tilted_Image_Correction](https://github.com/kerong2002/Tilted_Image_Correction)||Digital System Design|[TETRIS](https://github.com/kerong2002/FPGA_TETRIS)|FPGA|[YOLOV5](https://github.com/kerong2002/YOLOV5)|
 |Computer Networking| [Personal Website](https://kerong2002.github.io/)|Github Action|[Count CPP File](https://github.com/kerong2002/github_action) |
