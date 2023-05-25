@@ -74,7 +74,7 @@
 <a href=#><img src="kerong_contribution.svg"></a>     
 
 
-![kerong2002's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kerong2002&theme=react)
+![kerong2002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kerong2002&theme=tokyo-night)](https://github.com/kerong2002/github-readme-activity-graph)
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=10&color=39A7F7&width=435&height=45&lines=KE-RONG%2CCHEN)](https://git.io/typing-svg)
