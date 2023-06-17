@@ -75,7 +75,7 @@
 
 <a href=#><img src="kerong_contribution.svg"></a>     
 
-![img](https://github.com/kerong2002/kerong2002/blob/main/college2.png)
+![img](https://github.com/kerong2002/kerong2002/blob/main/college3.png)
 
 [![kerong2002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kerong2002&theme=tokyo-night)](https://github.com/kerong2002/github-readme-activity-graph)
 
