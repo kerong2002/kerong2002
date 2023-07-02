@@ -52,7 +52,8 @@
  - 2023/03 ~ 2023/6 School allies (teaching subject：calculus/linear algebra/Computer Networking)
  - 2023/03/29 INTEGRATED CIRCUIT DESIGN CONTEST **[Group E](https://github.com/kerong2002/Contest_Photo/blob/main/2023/111%E5%AD%B8%E5%B9%B4%E5%BA%A6(2023)%E7%AC%AC26%E5%B1%86%E2%BC%A4%E5%AD%B8%E9%99%A2%E6%A0%A1%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF(IC)%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD.jpg)**
  - 2023/06/29 Technology University Programming Contest TUPC **bronze medal**🥉
- | Rank | Name | Score | Finish Time   | [Q1 (3)](https://leetcode.com/contest/weekly-contest-352/problems/longest-even-odd-subarray-with-threshold/) | [Q2 (4)](https://leetcode.com/contest/weekly-contest-352/problems/prime-pairs-with-target-sum/) | [Q3 (5)](https://leetcode.com/contest/weekly-contest-352/problems/continuous-subarrays/) | [Q4 (6)](https://leetcode.com/contest/weekly-contest-352/problems/sum-of-imbalance-numbers-of-all-subarrays/) |
+
+| Rank | Name | Score | Finish Time   | [Q1 (3)](https://leetcode.com/contest/weekly-contest-352/problems/longest-even-odd-subarray-with-threshold/) | [Q2 (4)](https://leetcode.com/contest/weekly-contest-352/problems/prime-pairs-with-target-sum/) | [Q3 (5)](https://leetcode.com/contest/weekly-contest-352/problems/continuous-subarrays/) | [Q4 (6)](https://leetcode.com/contest/weekly-contest-352/problems/sum-of-imbalance-numbers-of-all-subarrays/) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12640 / 24560 | krameri120 | 3 | 0:51:50 | 0:51:50 |  |
 |Code Judge|Problem Solved|Code Judge|Problem Solved|
