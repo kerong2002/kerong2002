@@ -31,7 +31,7 @@
 |Hardware Description Language|VHDL/Verilog/SystemVerilog | Programmable Logic Device|FPGA/CPLD|
 |MCU Design|8051 | Low-level Programming Language| Assembly |
 |Ardunio|UNO/ESP32/Nano|Single-Board Computer|Raspberry_Pi 3/4/Pico |
-|Web Design|html/JavaScript/Hexo| Hypertext Markup Language|HTML/Markdown/Latex|
+|Web Design|JavaScript/Hexo| Hypertext Markup Language|HTML/Markdown/Latex|
 |Window Programming|Python-TKinter/Visual Basic/C#|App Design|Flutter/Dart|
 |Mathematics | MATLAB|Visual Programming Language|Scratch|
 
