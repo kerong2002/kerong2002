@@ -52,7 +52,7 @@
  - 2023/03 ~ 2023/6 School allies (teaching subject：calculus/linear algebra/Computer Networking)
  - 2023/03/29 INTEGRATED CIRCUIT DESIGN CONTEST **[Group E](https://github.com/kerong2002/Contest_Photo/blob/main/2023/111%E5%AD%B8%E5%B9%B4%E5%BA%A6(2023)%E7%AC%AC26%E5%B1%86%E2%BC%A4%E5%AD%B8%E9%99%A2%E6%A0%A1%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF(IC)%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD.jpg)**
  - 2023/06/29 Technology University Programming Contest **[TUPC](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-TUPC2023-MEDAL.pdf)** **bronze medal**🥉
- - 
+
 <details> 
  <summary><b>Leetcode Conteset</b></summary> 
 
