@@ -80,8 +80,6 @@
 </details>    
 <p>
  
- 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=kerong2002&title=MultiLanguage,Joined2020,Commits,Repositories,Stars,Followers)-->
 
  
 <p>
