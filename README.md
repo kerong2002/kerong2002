@@ -54,8 +54,8 @@
 - 2023/06/29 2023 Technology University Programming Contest **[TUPC](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-TUPC2023-MEDAL.pdf)** **bronze medal**🥉 (Team: NKUST_XP)
 - 2023/03 ~ 2023/6 School allies (teaching subject：calculus/linear algebra/Computer Networking)
 - 2023/09/16 2023 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-ICPC%20Asia%20Taiwan%20PC-CHEN%2CKE-RONG-MEDAL.pdf)** (Team: NKUST_XP)
-- 2022/09/24 2023 National Collegiate Programming Contest**Preliminary**  (Team: NKUST_XP)
-- 2022/10/15 2023 National Collegiate Programming Contest**Final**  (Team: NKUST_XP)
+- 2022/09/24 2023 National Collegiate Programming Contest **Preliminary**  (Team: NKUST_XP)
+- 2022/10/15 2023 National Collegiate Programming Contest **Final**  (Team: NKUST_XP)
 - 2022/10/21-22 2023 ICPC Asia Taoyuan Regional Programming Contest **[Regional](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-ICPC%20Asia%20Taoyuan%20Regional%20PC-CHEN%2CKE-RONG-HONORABLE.pdf)**  (Team: NKUST_XP)
 <details> 
  <summary><b>Leetcode Conteset</b></summary> 
