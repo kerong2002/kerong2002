@@ -18,7 +18,8 @@
 |Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|FPGA|[YOLOV5](https://github.com/kerong2002/YOLOV5)                     |Computer Networking|[Personal website](https://kerong2002.github.io/)|
 |Github Action|[Count_CPP_File](https://github.com/kerong2002/github_action)            |Data Structure|[CPlusPlus-Algorithm](https://github.com/kerong2002/CPlusPlus_Algorithm)     |Data Structure|[Code Judge](https://github.com/kerong2002/Code-Judge)|
 |Engineering Mathematics|[LaTeX](https://github.com/kerong2002/LaTeX)                   |Computer Networking|[Gobang Socket](https://github.com/kerong2002/Gobang)|Independent Study |[Reinforcement Learning](https://github.com/kerong2002/Reinforcement_Learning)|
-|VLSI | [Cadance](https://github.com/kerong2002/VLSI)                                   |Image Processing | [Practices](https://github.com/kerong2002/image_processing)               |Digital IC Design Practice|[Discrete Wavelet Transform](https://github.com/kerong2002/Discrete-Wavelet-Transform)|Zoom_in|[Bicubic](https://github.com/kerong2002/Bicubic-Resize-Engine)|
+|VLSI | [Cadance](https://github.com/kerong2002/VLSI)                                   |Image Processing | [Practices](https://github.com/kerong2002/image_processing)               |Digital IC Design Practice|[Discrete Wavelet Transform](https://github.com/kerong2002/Discrete-Wavelet-Transform)|
+|Zoom_in|[Bicubic](https://github.com/kerong2002/Bicubic-Resize-Engine)|
 </details>
 
 <details> 
