@@ -58,6 +58,7 @@
 - 2023/09/24 2023 National Collegiate Programming Contest **[Preliminary](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2023NCPC%E5%88%9D%E8%B3%BD%E5%8F%83%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)**  (Team: NKUST_XP)
 - 2023/10/15 2023 National Collegiate Programming Contest **[Final](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2023NCPC%E6%B1%BA%E8%B3%BD%E5%8F%83%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)**  (Team: NKUST_XP)
 - 2023/10/21-22 2023 ICPC Asia Taoyuan Regional Programming Contest **[Regional](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-ICPC%20Asia%20Taoyuan%20Regional%20PC-CHEN%2CKE-RONG-HONORABLE.pdf)**  (Team: NKUST_XP)
+- 2024/07/10 2024 Technology University Programming Contest **[TUPC](https://github.com/kerong2002/Contest_Photo/blob/main/2024/2025-ICPC%20TUPC%202024-CHEN%2CKE-RONG-MEDAL.pdf)** **bronze medal**🥉 (Team: NKUST_XP)
 
 <details> 
  
