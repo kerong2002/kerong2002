@@ -1,7 +1,9 @@
- <summary><b>Personal Information</b></summary> 
- - Name：CHEN, KE-RONG
- - Email：krameri120@gmail.com     
- - Job：Bachelor  
+## 📄 Personal Information
+
+- **Name**: CHEN, KE-RONG (陳科融)  
+- **Email**: krameri120@gmail.com  
+- **Current Position**: Master's Student  
+- **Institute**: Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University
 
   
 <details> 
