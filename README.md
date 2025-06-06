@@ -1,9 +1,9 @@
 ## 📄 Personal Information
 
-- **Name**: CHEN, KE-RONG (陳科融)  
-- **Email**: krameri120.cs14@nycu.edu.tw
+- **Name**: CHEN, KE-RONG 
+- **Email**: krameri120.cs14@nycu.edu.tw 
 - **Current Position**: Master's Student  
-- **Institute**: Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University
+- **Institute**: Institute of Computer Science and Engineering  
 
 
 ## 🏅 Skill/Contest Experience
