@@ -7,33 +7,9 @@
 
   
 <details> 
- <summary><b>Project</b></summary> 
- 
-|Course|Project|Course|Project|Course|Project|
-|:----------:|:-----:|:----------:|:-----:|:----------:|:-----:|
-|Computer Programming|[C language mote](https://github.com/kerong2002/C_Language_Note)  | Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)      |Python|[Discord bot mini games](https://github.com/kerong2002/Discord-Bot)
-|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)          |Object-oriented Programming|[RPG_game](https://github.com/kerong2002/RPG_game)              |FPGA|[Tilted_Image_Correction](https://github.com/kerong2002/Tilted_Image_Correction)|
-|Digital System Design|[Practices](https://github.com/kerong2002/111-practices-of-digtal-system-design)|Digital System Design|[TETRIS](https://github.com/kerong2002/FPGA_TETRIS)    |Digital System Design|[HDLbits](https://github.com/kerong2002/HDLbits)|
-|Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|FPGA|[YOLOV5](https://github.com/kerong2002/YOLOV5)                     |Computer Networking|[Personal website](https://kerong2002.github.io/)|
-|Github Action|[Count_CPP_File](https://github.com/kerong2002/github_action)            |Data Structure|[CPlusPlus-Algorithm](https://github.com/kerong2002/CPlusPlus_Algorithm)     |Data Structure|[Code Judge](https://github.com/kerong2002/Code-Judge)|
-|Engineering Mathematics|[LaTeX](https://github.com/kerong2002/LaTeX)                   |Computer Networking|[Gobang Socket](https://github.com/kerong2002/Gobang)|Independent Study |[Reinforcement Learning](https://github.com/kerong2002/Reinforcement_Learning)|
-|VLSI | [Cadence](https://github.com/kerong2002/VLSI)                                   |Image Processing | [Practices](https://github.com/kerong2002/image_processing)               |Digital IC Design Practice|[Discrete Wavelet Transform](https://github.com/kerong2002/Discrete-Wavelet-Transform)|
-|Probability|[Class Note](https://github.com/kerong2002/Probability)|Zoom_in|[Bicubic-Resize-Engine](https://github.com/kerong2002/Bicubic-Resize-Engine)|Independent Study |[Hollow_Knight_RL](https://github.com/kerong2002/Hollow_Knight_RL)|
-</details>
 
-<details> 
+
  <summary><b>Skill/Contest experience</b></summary> 
-
- 
-|Name|expertise|Name|expertise|
-|:--:|:---:|:--:|:---:|
-|Programming Language|C/C++/Python | Machine Learning|Pytorch|
-|Hardware Description Language|VHDL/Verilog| Programmable Logic Device|FPGA/CPLD|
-|MCU Design|8051 | Low-level Programming Language| Assembly |
-|Ardunio|UNO/ESP32/Nano|Single-Board Computer|Raspberry_Pi 3/4/Pico |
-|Web Design|JavaScript/Hexo| Hypertext Markup Language|HTML/Markdown/Latex/Mermaid|
-|Window Programming|Python-TKinter/Visual Basic|App Design|Flutter/Dart|
-|Mathematics | MATLAB|Visual Programming Language|Scratch|
 
 - School team：National Tainan Industrial High School  Dragon Boat
 - 2020 Tainan City International Dragon Boat Championships **2nd**
@@ -58,8 +34,20 @@
 - 2023/10/15 2023 National Collegiate Programming Contest **[Final](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2023NCPC%E6%B1%BA%E8%B3%BD%E5%8F%83%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)**  (Team: NKUST_XP)
 - 2023/10/21-22 2023 ICPC Asia Taoyuan Regional Programming Contest **[Regional](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-ICPC%20Asia%20Taoyuan%20Regional%20PC-CHEN%2CKE-RONG-HONORABLE.pdf)**  (Team: NKUST_XP)
 - 2024/07/10 2024 Technology University Programming Contest **[TUPC](https://github.com/kerong2002/Contest_Photo/blob/main/2024/2025-ICPC%20TUPC%202024-CHEN%2CKE-RONG-MEDAL.pdf)** **bronze medal**🥉 (Team: NKUST_XP)
-</details> 
 
+ <summary><b>Project</b></summary> 
+ 
+|Course|Project|Course|Project|Course|Project|
+|:----------:|:-----:|:----------:|:-----:|:----------:|:-----:|
+|Computer Programming|[C language mote](https://github.com/kerong2002/C_Language_Note)  | Computer Programming|[UVa_Project](https://github.com/kerong2002/110-C_Final_Project)      |Python|[Discord bot mini games](https://github.com/kerong2002/Discord-Bot)
+|Python TKinter      |[Minesweeper](https://github.com/kerong2002/Minesweeper)          |Object-oriented Programming|[RPG_game](https://github.com/kerong2002/RPG_game)              |FPGA|[Tilted_Image_Correction](https://github.com/kerong2002/Tilted_Image_Correction)|
+|Digital System Design|[Practices](https://github.com/kerong2002/111-practices-of-digtal-system-design)|Digital System Design|[TETRIS](https://github.com/kerong2002/FPGA_TETRIS)    |Digital System Design|[HDLbits](https://github.com/kerong2002/HDLbits)|
+|Microcomputer Practice|[MCU_temperature_APP](https://github.com/kerong2002/temperature_bluetooth_with_8051)|FPGA|[YOLOV5](https://github.com/kerong2002/YOLOV5)                     |Computer Networking|[Personal website](https://kerong2002.github.io/)|
+|Github Action|[Count_CPP_File](https://github.com/kerong2002/github_action)            |Data Structure|[CPlusPlus-Algorithm](https://github.com/kerong2002/CPlusPlus_Algorithm)     |Data Structure|[Code Judge](https://github.com/kerong2002/Code-Judge)|
+|Engineering Mathematics|[LaTeX](https://github.com/kerong2002/LaTeX)                   |Computer Networking|[Gobang Socket](https://github.com/kerong2002/Gobang)|Independent Study |[Reinforcement Learning](https://github.com/kerong2002/Reinforcement_Learning)|
+|VLSI | [Cadence](https://github.com/kerong2002/VLSI)                                   |Image Processing | [Practices](https://github.com/kerong2002/image_processing)               |Digital IC Design Practice|[Discrete Wavelet Transform](https://github.com/kerong2002/Discrete-Wavelet-Transform)|
+|Probability|[Class Note](https://github.com/kerong2002/Probability)|Zoom_in|[Bicubic-Resize-Engine](https://github.com/kerong2002/Bicubic-Resize-Engine)|Independent Study |[Hollow_Knight_RL](https://github.com/kerong2002/Hollow_Knight_RL)|
+</details>
  
  
 <p>
