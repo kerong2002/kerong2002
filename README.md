@@ -6,7 +6,7 @@
 - **Institute**: Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University
 
 
- <summary><b>Skill/Contest experience</b></summary> 
+## 🏅 Skill/Contest Experience
 
 - School team：National Tainan Industrial High School  Dragon Boat
 - 2020 Tainan City International Dragon Boat Championships **2nd**
