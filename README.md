@@ -2,7 +2,7 @@
 
 - **Name**: CHEN, KE-RONG 
 - **Email**: krameri120.cs14@nycu.edu.tw 
-- **Current Position**: Master's Student  
+- **Job**: Master's Student  
 - **Institute**: Institute of Computer Science and Engineering  
 
 
