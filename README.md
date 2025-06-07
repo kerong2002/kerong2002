@@ -22,7 +22,6 @@
 - 2022/10/15 2022 National Collegiate Programming Contest **[Final](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022NCPC_FINAL_certificate.PNG)**(Team: Segmentation Fault)
 - 2022/10/22 2022 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022TOPC_team_certificate.PNG)** (Team: Segmentation Fault)
 - 2022/11/19-21 2022 ICPC Asia Taoyuan Regional Programming Contest **[Regional](https://github.com/kerong2002/Contest_Photo/blob/main/2022/2022%20ICPC%20Asia%20Taoyuan%20Regional%20Programming%20Contest%20team.PNG)** (Team: Segmentation Fault)
- - 2023/03 ~ 2023/6 School allies (teaching subject：Calculus/Linear Algebra/Computer Networking)
  - 2023/03/29 2023 INTEGRATED CIRCUIT DESIGN CONTEST **[Group E](https://github.com/kerong2002/Contest_Photo/blob/main/2023/111%E5%AD%B8%E5%B9%B4%E5%BA%A6(2023)%E7%AC%AC26%E5%B1%86%E2%BC%A4%E5%AD%B8%E9%99%A2%E6%A0%A1%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF(IC)%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD.jpg)**
 - 2023/06/29 2023 Technology University Programming Contest **[TUPC](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-TUPC2023-MEDAL.pdf)** **bronze medal**🥉 (Team: NKUST_XP)
 - 2023/09/16 2023 ICPC Asia Taiwan Online Programming Contest **[TOPC](https://github.com/kerong2002/Contest_Photo/blob/main/2023/2024-ICPC%20Asia%20Taiwan%20PC-CHEN%2CKE-RONG-MEDAL.pdf)** (Team: NKUST_XP)
